@@ -1,3 +1,5 @@
+![Roadster banner with the title ロードスター and an MX-5 from the side](docs/banner.png)
+
 # Roadster
 
 Roadster is a home screen app for an Android car head unit. Its design is the same as a Japanese double-DIN unit from approximately 2002. It is for the Mazda MX-5 of the NB generation (1998–2005).
