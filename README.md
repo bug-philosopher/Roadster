@@ -1,4 +1,4 @@
-![Roadster banner with the title ロードスター and an MX-5 from the side](docs/banner.png)
+![Roadster banner with the title ロードスター and a sports coupe from the side](docs/banner.png)
 
 # Roadster
 
