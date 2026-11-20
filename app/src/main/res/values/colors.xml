@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bezel">#FF1A1917</color>
+    <color name="glass">#FF0E0D0C</color>
+    <color name="amber">#FFF0A43A</color>
+    <color name="meter">#FFB2D68C</color>
+    <color name="cream">#FFECE4D2</color>
+</resources>
